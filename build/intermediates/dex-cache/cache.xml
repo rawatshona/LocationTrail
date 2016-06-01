@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Demon\MyApplication3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d7002ed92a3c46c6a89a786877ecf7978a4f0459">
+        <dex dex="C:\Users\Demon\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.0.0_e3ee01bc05208ebc6e93ab1a3e3fc6a4f1a6a559\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Demon\MyApplication3\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ebfde1a055aea400df77584a68aa60609f618bed">
+        <dex dex="C:\Users\Demon\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.0.0_395b969759c4e62d7a02d63ea371c3bf96cbb8a6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Demon\MyApplication3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="379d1834afa3c08f43be23a23b103053537b65b5">
+        <dex dex="C:\Users\Demon\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.0.0_fd3b53ce5f0024cb6199c16ca221c00da0cf73cd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Demon\MyApplication3\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Users\Demon\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_354fc505530cfb36bbbe7f61b3ab76e52b87423b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Demon\MyApplication3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0facc6fc326f2406f4bb9b02f442994c5ce6a403">
+        <dex dex="C:\Users\Demon\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.0.0_fbd5c029709966d68504e94bcaeb03cefef8e897\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Demon\MyApplication3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="C:\Users\Demon\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.0.0_23af56cdb21b8715b874fac7aeca960b1ff17b8b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Demon\MyApplication3\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Demon\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_42d3633d93229a14a884a84d8647d7caa3a225d9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Demon\MyApplication3\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Users\Demon\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-23.0.0_083336547b1b6b62c784d83f730590cc175d2495\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Demon\MyApplication3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8126914f5bc372a33e27ea90f02412c32468ce8a">
+        <dex dex="C:\Users\Demon\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.0.0_76fdaf15b37650995f297326c2a7103ee8fa6e35\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Demon\MyApplication3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c11cf7a7a6e5adf8fa564303a11dbc351fc11b7c">
+        <dex dex="C:\Users\Demon\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.0.0_c736d64dc22cd75a5a5c730ecdcaba8924453c52\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Demon\MyApplication3\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="32a5a566ae197603d0bed3e6d1d275f6a771564e">
+        <dex dex="C:\Users\Demon\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.0.0_23367a8d2e374d518f8571abc0a8a4a4d489a6eb\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Demon\MyApplication3\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="528de9c83894f8ab4b1ee51738aea4c939402129">
+        <dex dex="C:\Users\Demon\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_aa80e84f038abe76865b165d46bde30e0747b2d8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Demon\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Demon\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_97e71769677f7d5c4ada325b87c643c191494b26\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Demon\MyApplication3\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Demon\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_663da294eb27368e491d4a3fbea079f67dd0b9d4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Demon\MyApplication3\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Demon\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_cee496486aa8f880819bf87532d8cf3d09977cd6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Demon\MyApplication3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="C:\Users\Demon\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.0.0_c1f07eb7b2e88cf33028fcd2d370d2dc34912a37\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Demon\MyApplication3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="184428c29b2a4b220cd44284d515db5d8cb5fc76">
+        <dex dex="C:\Users\Demon\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.0.0_31c6240bb6fba8ee182bb2eb278b80ac93da0f8d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Demon\MyApplication3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a819aae4f0c711e50b4fd633922a3c1a176cb51e">
+        <dex dex="C:\Users\Demon\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.0.0_4dc5d1f6e93b995462c252f625995e1f4cd63169\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Demon\MyApplication3\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ed16ff19f0a9515604a0f08104ca0317b82e29e3">
+        <dex dex="C:\Users\Demon\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.0.0_ff63e55b6f67b25155876f0254c5238fdc64e9df\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Demon\MyApplication3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="C:\Users\Demon\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.0.0_c8d47878566a6684194fb0fa57c3235212c29569\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Demon\MyApplication3\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Demon\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_2b5688c77ed668cb15f361476f79c396d9ce877d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Demon\MyApplication3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2c5bc0ebbe69c9fab587c2216b36ec44ab8f0704">
+        <dex dex="C:\Users\Demon\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.0.0_3b8e895d23f5c19c65764aafdb125268fb63d2bd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Demon\MyApplication3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d96f9f3ef66494d1231304cafd28c962dda80dea">
+        <dex dex="C:\Users\Demon\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.0.0_c4ce29fdc890bc761f2355f5fa903f21f7431278\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Demon\MyApplication3\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="005786793d72c6deacbbbfd38177ed58e1aa6653">
+        <dex dex="C:\Users\Demon\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.0.0_1d636e08df8bb3d0e50f228b9761a1b833a3258b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Demon\MyApplication3\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ef5c5c2afbd174d55cf1cfcac7d0346cbc4c1322">
+        <dex dex="C:\Users\Demon\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.0.0_351ba1ba2a2d94b7eca2f848d66dcb2c7d9228e3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Demon\MyApplication3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="69472e334350cafbf442776da05c9a04955252fb">
+        <dex dex="C:\Users\Demon\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.0.0_bdad406c8c245d21d073d780868be7564a04d52e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Demon\MyApplication3\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="70ddab48594608953b20164b82f1f890a9a8174a">
+        <dex dex="C:\Users\Demon\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.0.0_b90445495044b70cacba4fee2a2e9dffb122aabd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Demon\MyApplication3\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5f0f6913a208a126269aaa68004ed0329a832c5b">
+        <dex dex="C:\Users\Demon\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.0.0_16e268881a6071afad158048b4fd4459856c2066\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Demon\MyApplication3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b8bedab61b3b5238cd9a07d3b04449d7fecdbc3b">
+        <dex dex="C:\Users\Demon\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.0.0_9b1a8df2f2482c04e289afcdd7daac3145895da9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Demon\MyApplication3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7a23185c9b1c100e7d1a32275017e4712e31c796">
+        <dex dex="C:\Users\Demon\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.0.0_308d1fdfef37b78f48edb021da7c7f548e10d4da\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Demon\MyApplication3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="373cd65725af2781d100ddc193c7d3f14464a774">
+        <dex dex="C:\Users\Demon\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.0.0_8d74cb9f5b226538b98a9009b459bb69708bf196\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Demon\MyApplication3\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="C:\Users\Demon\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.0.0_f0661ec47601f23fbf7c956e27ee3a5ba33e0fb4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Demon\MyApplication3\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="C:\Users\Demon\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.0.0_d24762fed036ec0742271905ae57f114ed5dcefd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Demon\MyApplication3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5289e799a43a64c4137d109bf992e10a2f952aa3">
+        <dex dex="C:\Users\Demon\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.0.0_9f79a1df2c4059a911f682abc9efcdf41421f47b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Demon\MyApplication3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="294d49a66cc1238d9f7fd352136a45622fa98c0f">
+        <dex dex="C:\Users\Demon\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.0.0_a71876925d70c81e34ff60d2e94f2e839e8c9e48\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Demon\MyApplication3\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Demon\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_14d2053c8d278a72434eecc9c0f20c3110d51561\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Demon\MyApplication3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="79e4b41db41d4dbbf364c7bd6aaeee5b876c9d8b">
+        <dex dex="C:\Users\Demon\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.0.0_7e8aad7e651d6f8ad7a882146cbb63813f247346\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Demon\MyApplication3\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="24536a7b97926a9c155c88425da6875adeb11b51">
+        <dex dex="C:\Users\Demon\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.0.0_e02c2f9e74060c51d678ab0f6f6859057b68a3f5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Demon\MyApplication3\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f9d02d476bfdebce6be1526050c086c98c2b6023">
+        <dex dex="C:\Users\Demon\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_0538f8c5778becfc4e9ead88146864185b4417d8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Demon\MyApplication3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="59cca9b91688dc2467754d36793b3d23bebd21a9">
+        <dex dex="C:\Users\Demon\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.0.0_e68ea84b94ce2365cb8d3469590694b97858852a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Demon\MyApplication3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f4e85eafa876cd7d7641244867dac3f88d71e866">
+        <dex dex="C:\Users\Demon\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.0.0_56ef2dd9359e34f35a78e1e087ce8b3022578a33\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Demon\MyApplication3\app\build\intermediates\exploded-aar\pathsense-android-sdk-bundle-release-2.1.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7b0231dd2459f2ed68bd748db71cfdc724f35b5f">
+        <dex dex="C:\Users\Demon\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\10\intermediates-exploded-aar-pathsense-android-sdk-bundle-release-2.1.0.0_24af91ab1e22d16a2e78da2411a923abbc995626\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Demon\MyApplication3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2cb29455028e92e024bbad0d41c6ec772f2433d1">
+        <dex dex="C:\Users\Demon\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.0.0_4e9f9f38c0d21c7f2b723a87d14ff5e40b930605\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Demon\MyApplication3\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="C:\Users\Demon\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.0.0_c4d0c6e6866b064d57071ff51b39aa0865d8a74c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Demon\MyApplication3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4431efe5d0f67fab36a698dde725946b33a6bf4a">
+        <dex dex="C:\Users\Demon\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.0.0_fd1b777c121fedce33e5892d2171bf5b79850d6b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Demon\MyApplication3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e595f98f8c525201dccd119f43ad1ddacd4c48d6">
+        <dex dex="C:\Users\Demon\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.0.0_150398b5f971a90057a2f731bf9146957121528e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Demon\MyApplication3\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7e467a973b749c6390a5991c9a8edbde96fc10c9">
+        <dex dex="C:\Users\Demon\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.0.0_a5f93c42b9f9730579c1f73ce6d2829654bcea0b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Demon\MyApplication3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7da84426d876216ed4cdddd85e739be5ecabdd04">
+        <dex dex="C:\Users\Demon\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.0.0_5c4744a6588efbde18532d5ab5f9934f7e8de351\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Demon\MyApplication3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67a7d712de3e7d025f4efdcec1da183f764bdbab">
+        <dex dex="C:\Users\Demon\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.0.0_40f50762f0a63c67255e199b4500462a3b60eeb6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Demon\MyApplication3\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="733964f04c339e425439545b1d172c23b53f8c13">
+        <dex dex="C:\Users\Demon\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.0.0_51d53391765a23e9fc147f2fb4e8ac9af917aec1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Demon\MyApplication3\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="C:\Users\Demon\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.0.0_ecea8de272c17b3afcc13ca0b4c09354b6f8f167\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Demon\MyApplication3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="817b9101192f2fd6dc0fd8cd522d8f4a1a75fcdc">
+        <dex dex="C:\Users\Demon\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.0.0_41a395662457ccc68c5665227978e58991ab3c1e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Demon\MyApplication3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2f7bd8cc7519d5231aa8d2ae8e905d3f602bd491">
+        <dex dex="C:\Users\Demon\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.0.0_992c230c9bae50a87b6022f665d45128844b8132\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Demon\MyApplication3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4caf75b2cfb7ec6e80a57d0ee64fc102ad3578b8">
+        <dex dex="C:\Users\Demon\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.0.0_540b9fc17623df09cd6c8b73b64f01a91ef88c73\classes.dex" />
+    </item>
+
+</items>
